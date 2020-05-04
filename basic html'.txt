@@ -1,0 +1,10 @@
+<html>
+<title>TEST PAGE</title>
+<head><h1><center>LINKING</center></h1></head>
+<body>
+Hey here is a test page for hyperlinking.
+
+
+</body>
+
+</html>
